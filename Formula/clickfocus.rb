@@ -1,8 +1,8 @@
 class Clickfocus < Formula
   desc "Focus the window you click when an app restores a different one"
   homepage "https://github.com/TomK/ClickFocus"
-  url "https://github.com/TomK/ClickFocus/archive/refs/tags/v0.4.0.tar.gz"
-  sha256 "bdf87fcfe92b343bb95d988fe08b284890a3421f3ed1216041f8339d55bf4ab6"
+  url "https://github.com/TomK/ClickFocus/archive/refs/tags/v0.4.1.tar.gz"
+  sha256 "232bcb9f2a4315a0d2e896d15e324bf7707196aefd698b11cb8d00960b1359f4"
   license "MIT"
 
   depends_on :macos
